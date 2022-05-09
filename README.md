@@ -13,4 +13,4 @@ Data Cleaning, Normalization, minority class oversampling is performed. The trai
 Support Vector Machine, Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbor, XG-Boost, and Naive bayes models are implemented.
 ### Evaluation Metric
 For all the models Accuray, Precision, Recall, F1-score, Kappa Statistic are measured. Confusion matrix and ROC-Curve are ploted.
-All the codes are included in the DATA_245_Project.ipynb file
+##### All the codes are included in the DATA_245_Project.ipynb file
