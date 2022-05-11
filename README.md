@@ -15,7 +15,7 @@ Support Vector Machine, Logistic Regression, Decision Tree, Random Forest, K-Nea
 For all the models Accuray, Precision, Recall, F1-score, Kappa Statistic are measured. Confusion matrix and ROC-Curve are ploted.
 ##### All the codes are included in the jupiter notebook.
 
-### Team memebers:
+#### Group members:
 Yassaman Emami
 -Shamama Afnan
 -Deepali Zutshi
