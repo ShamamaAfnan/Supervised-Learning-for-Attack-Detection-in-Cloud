@@ -16,7 +16,7 @@ For all the models Accuray, Precision, Recall, F1-score, Kappa Statistic are mea
 ##### All the codes are included in the jupiter notebook.
 
 #### Group members:
-Yassaman Emami
+Yasaman Emami
 -Shamama Afnan
 -Deepali Zutshi
 -Purnima Bhukya
